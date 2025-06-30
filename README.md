@@ -49,4 +49,8 @@ La aplicación estará disponible en [http://localhost:5173](http://localhost:51
 - El login almacena el token JWT en `localStorage`.
 - Para acceder al dashboard es necesario estar autenticado.
 
+## Notas
+- Se tuvo un inconveniente con las reservas al momento de ingresar el id de la fecha
+- Falto poder ingresar la reserva desde la version web, sin embargo el endpoint es funcional
+
 ---
